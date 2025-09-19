@@ -1,4 +1,6 @@
 APClips
+Audiojungle
+CyberDefenders
 Freelance.habr
 GNOME VCS
 Giphy
@@ -15,6 +17,7 @@ RocketTube
 SlideShare
 Splice
 Spotify
+Topcoder
 Weblate
 YandexMusic
 kaskus
