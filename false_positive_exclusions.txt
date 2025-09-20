@@ -1,5 +1,5 @@
 APClips
-Audiojungle
+Coders Rank
 CyberDefenders
 Freelance.habr
 GNOME VCS
@@ -11,6 +11,7 @@ LushStories
 Mydramalist
 PepperIT
 PocketStars
+Rajce.net
 Reddit
 Roblox
 RocketTube
@@ -24,4 +25,3 @@ kaskus
 opennet
 svidbook
 threads
-xHamster
