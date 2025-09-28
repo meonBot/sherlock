@@ -5,6 +5,7 @@ GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
+Itch.io
 LessWrong
 LushStories
 Mydramalist
@@ -13,10 +14,10 @@ PocketStars
 Reddit
 Roblox
 RocketTube
+Slack
 SlideShare
 Splice
 Spotify
-Topcoder
 Weblate
 YandexMusic
 kaskus
