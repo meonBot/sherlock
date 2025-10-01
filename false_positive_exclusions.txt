@@ -1,11 +1,9 @@
 APClips
-Coders Rank
-CyberDefenders
+CGTrader
 GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
-Itch.io
 LessWrong
 LushStories
 Mydramalist
