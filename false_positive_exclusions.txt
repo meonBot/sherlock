@@ -1,6 +1,6 @@
 APClips
 BoardGameGeek
-CyberDefenders
+Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
@@ -10,16 +10,13 @@ LushStories
 PepperIT
 PocketStars
 Reddit
-Roblox
 RocketTube
-SlideShare
 Splice
 Spotify
 Topcoder
+TryHackMe
 Weblate
 YandexMusic
 kaskus
 opennet
 svidbook
-threads
-xHamster
