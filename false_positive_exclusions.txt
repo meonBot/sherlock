@@ -1,7 +1,7 @@
 APClips
 BoardGameGeek
 Coders Rank
-DeviantArt
+Freelancer
 GNOME VCS
 Giphy
 HackerEarth
@@ -14,9 +14,7 @@ RocketTube
 Splice
 Spotify
 Topcoder
-TryHackMe
 Weblate
 YandexMusic
 kaskus
-opennet
 svidbook
