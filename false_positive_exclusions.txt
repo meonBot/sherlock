@@ -14,5 +14,5 @@ Spotify
 Topcoder
 Weblate
 YandexMusic
+opennet
 svidbook
-xHamster
