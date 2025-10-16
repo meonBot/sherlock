@@ -1,6 +1,7 @@
 APClips
+Audiojungle
+BreachSta.rs Forum
 Coders Rank
-Cults3D
 DeviantArt
 Giphy
 Heavy-R
@@ -11,8 +12,8 @@ RocketTube
 Splice
 Spotify
 Topcoder
+TryHackMe
 Weblate
 YandexMusic
 opennet
-programming.dev
 svidbook
