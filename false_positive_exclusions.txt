@@ -1,10 +1,9 @@
 APClips
-Audiojungle
 BreachSta.rs Forum
 Coders Rank
-DeviantArt
+Cults3D
+GNOME VCS
 Giphy
-Heavy-R
 LushStories
 PocketStars
 Reddit
@@ -12,8 +11,8 @@ RocketTube
 Splice
 Spotify
 Topcoder
-TryHackMe
 Weblate
 YandexMusic
 opennet
+phpRU
 svidbook
