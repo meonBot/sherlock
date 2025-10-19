@@ -1,20 +1,15 @@
 APClips
-CGTrader
-Coders Rank
 DeviantArt
-Flipboard
-Freelancer
 GNOME VCS
 Giphy
 LushStories
 PocketStars
-Rajce.net
 Reddit
 RocketTube
 Splice
 Spotify
-Tiendanube
 Topcoder
 Weblate
 YandexMusic
+opennet
 svidbook
