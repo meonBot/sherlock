@@ -1,7 +1,5 @@
 APClips
-BreachSta.rs Forum
-DeviantArt
-GNOME VCS
+Coders Rank
 Giphy
 LushStories
 PocketStars
@@ -11,4 +9,5 @@ Splice
 Spotify
 Weblate
 YandexMusic
+opennet
 svidbook
