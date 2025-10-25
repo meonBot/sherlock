@@ -1,16 +1,14 @@
 APClips
-CGTrader
-DEV Community
-DeviantArt
+Crevado
 GNOME VCS
 Giphy
+LushStories
 PocketStars
 Reddit
 RocketTube
 Splice
 Spotify
-Topcoder
-Trovo
 Weblate
 YandexMusic
+opennet
 svidbook
