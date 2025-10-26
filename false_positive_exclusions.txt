@@ -1,14 +1,18 @@
 APClips
-Crevado
+Coders Rank
+DeviantArt
 GNOME VCS
 Giphy
+HackerRank
 LushStories
 PocketStars
 Reddit
 RocketTube
 Splice
 Spotify
+Trovo
 Weblate
 YandexMusic
 opennet
 svidbook
+xHamster
