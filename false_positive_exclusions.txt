@@ -1,17 +1,14 @@
 APClips
-Blogger
+Carbonmade
 Coders Rank
-DeviantArt
 GNOME VCS
 Giphy
-LushStories
 PocketStars
 Reddit
 RocketTube
-Slack
+SpeakerDeck
 Splice
 Spotify
-Trovo
 Weblate
 YandexMusic
 opennet
