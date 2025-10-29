@@ -1,12 +1,10 @@
 APClips
-Carbonmade
-Coders Rank
 GNOME VCS
 Giphy
+LushStories
 PocketStars
 Reddit
 RocketTube
-SpeakerDeck
 Splice
 Spotify
 Weblate
