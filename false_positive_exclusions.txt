@@ -1,6 +1,4 @@
 APClips
-Coders Rank
-DeviantArt
 GNOME VCS
 Giphy
 LushStories
@@ -14,3 +12,4 @@ Weblate
 YandexMusic
 phpRU
 svidbook
+xHamster
