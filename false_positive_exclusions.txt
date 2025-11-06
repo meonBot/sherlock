@@ -1,15 +1,17 @@
 APClips
+Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
-HackerRank
 LushStories
 PocketStars
 Reddit
 RocketTube
 Splice
 Spotify
+Trovo
 Weblate
 YandexMusic
 opennet
+phpRU
 svidbook
