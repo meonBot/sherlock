@@ -1,11 +1,12 @@
 APClips
 Archive.org
+Audiojungle
 Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
 LushStories
-OurDJTalk
+Minecraft
 PocketStars
 Reddit
 RocketTube
@@ -14,7 +15,8 @@ Spotify
 Trovo
 Weblate
 YandexMusic
+forum_guns
+nnRU
 opennet
 phpRU
 svidbook
-xHamster
