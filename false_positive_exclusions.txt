@@ -2,7 +2,6 @@ APClips
 Archive.org
 Code Snippet Wiki
 Coders Rank
-DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
@@ -12,9 +11,11 @@ LushStories
 PocketStars
 Reddit
 RocketTube
+Scribd
+SlideShare
 Splice
 Spotify
-Trovo
+Vero
 Weblate
 YandexMusic
 opennet
