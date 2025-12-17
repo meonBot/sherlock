@@ -1,23 +1,23 @@
 APClips
-Archive of Our Own
 Archive.org
 Carbonmade
 Code Snippet Wiki
-DeviantArt
+Coders Rank
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
+HackerRank
 Hubski
 LushStories
+Minecraft
 PocketStars
 Reddit
 RocketTube
+Slack
 SlideShare
-SoylentNews
 Splice
 Spotify
-Trovo
 Weblate
 YandexMusic
 opennet
