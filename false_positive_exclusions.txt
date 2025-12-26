@@ -1,17 +1,19 @@
 APClips
 Archive.org
+BitBucket
 Code Snippet Wiki
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
+GitHub
 Hubski
-Itch.io
 LushStories
 PocketStars
 Reddit
 RocketTube
 Scribd
+Slack
 SlideShare
 Splice
 Spotify
