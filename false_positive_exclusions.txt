@@ -1,24 +1,24 @@
 APClips
 Archive.org
-BitBucket
 Code Snippet Wiki
+DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
-GitHub
 Hubski
 LushStories
 PocketStars
 Reddit
 RocketTube
+RuneScape
 Scribd
-Slack
 SlideShare
 Splice
 Spotify
+Trovo
 Weblate
 YandexMusic
-opennet
 phpRU
 svidbook
+xHamster
