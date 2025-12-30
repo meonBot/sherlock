@@ -1,12 +1,16 @@
 APClips
+Academia.edu
+Archive.org
+Audiojungle
 Code Snippet Wiki
-Dribbble
+DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
 LushStories
+Minecraft
 PocketStars
 Reddit
 RocketTube
@@ -14,6 +18,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trovo
 Weblate
 YandexMusic
 opennet
