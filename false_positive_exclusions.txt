@@ -1,27 +1,25 @@
 APClips
-Academia.edu
 Archive.org
-Audiojungle
+Blogger
 Code Snippet Wiki
-DeviantArt
 Fandom
+Freelancer
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
 LushStories
-Minecraft
 PocketStars
 Reddit
 RocketTube
 Scribd
+Slack
 SlideShare
 Splice
 Spotify
-Trovo
+Strava
 Weblate
 YandexMusic
-opennet
+mercadolivre
 phpRU
 svidbook
-xHamster
