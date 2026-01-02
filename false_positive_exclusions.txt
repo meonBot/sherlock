@@ -2,25 +2,23 @@ APClips
 Archive.org
 Code Snippet Wiki
 Fandom
-GNOME VCS
+Freelancer
 GeeksforGeeks
 Giphy
 Hubski
+Itch.io
 LushStories
-Minecraft
 PocketStars
 Reddit
 RocketTube
 Scribd
-Slack
 SlideShare
 Splice
 Spotify
-TryHackMe
 Weblate
 YandexMusic
 mercadolivre
 opennet
 phpRU
 svidbook
-threads
+xHamster
