@@ -13,6 +13,7 @@ Reddit
 RocketTube
 Scribd
 SlideShare
+Snapchat
 Splice
 Spotify
 Trovo
@@ -22,4 +23,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
