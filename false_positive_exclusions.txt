@@ -2,13 +2,11 @@ APClips
 Archive.org
 Code Snippet Wiki
 Fandom
-Freelancer
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
 LushStories
-Minecraft
 PocketStars
 Realmeye
 Reddit
@@ -23,4 +21,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-threads
