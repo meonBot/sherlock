@@ -5,11 +5,8 @@ Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
-Gravatar
-HackerRank
 Hubski
 LushStories
-OurDJTalk
 PocketStars
 Realmeye
 Reddit
