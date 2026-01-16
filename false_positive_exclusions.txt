@@ -1,6 +1,5 @@
 APClips
 Archive.org
-Blogger
 Code Snippet Wiki
 DeviantArt
 Fandom
@@ -22,6 +21,5 @@ Trovo
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
