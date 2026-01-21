@@ -8,8 +8,6 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-LushStories
-Minecraft
 PocketStars
 Realmeye
 Reddit
@@ -17,13 +15,12 @@ RocketTube
 Scribd
 SlideShare
 Smule
-SoylentNews
 Splice
 Spotify
 Trovo
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
-xHamster
