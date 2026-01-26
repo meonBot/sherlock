@@ -1,4 +1,5 @@
 APClips
+Archive of Our Own
 Archive.org
 Code Snippet Wiki
 Fandom
@@ -6,6 +7,8 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
+LushStories
+Minecraft
 PocketStars
 Realmeye
 Reddit
@@ -16,6 +19,8 @@ Smule
 Splice
 Spotify
 Weblate
+YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
