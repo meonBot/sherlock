@@ -1,13 +1,13 @@
 APClips
 Archive.org
-Audiojungle
+Blogger
 Code Snippet Wiki
+DeviantArt
 Fandom
-Freelancer
-GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
+LiveJournal
 LushStories
 PocketStars
 Realmeye
@@ -18,9 +18,11 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 Weblate
 YandexMusic
 mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
