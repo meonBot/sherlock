@@ -1,7 +1,6 @@
 APClips
 Archive.org
 Code Snippet Wiki
-DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
@@ -17,11 +16,10 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 Weblate
 YandexMusic
-igromania
 mercadolivre
 opennet
 phpRU
 svidbook
+threads
