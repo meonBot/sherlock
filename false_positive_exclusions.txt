@@ -6,6 +6,7 @@ Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
+HackerRank
 Hubski
 LushStories
 PocketStars
@@ -22,6 +23,6 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
-xHamster
