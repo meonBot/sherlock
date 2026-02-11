@@ -1,4 +1,5 @@
 APClips
+Academia.edu
 Archive.org
 Code Snippet Wiki
 DeviantArt
@@ -6,7 +7,6 @@ Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
-HackerRank
 Hubski
 LushStories
 PocketStars
