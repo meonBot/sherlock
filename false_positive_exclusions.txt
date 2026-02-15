@@ -1,20 +1,17 @@
 APClips
 Archive.org
-CGTrader
 Code Snippet Wiki
+Cracked Forum
 DeviantArt
-Eintracht Frankfurt Forum
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-LushStories
 PocketStars
 Realmeye
 Reddit
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Smule
@@ -28,4 +25,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
