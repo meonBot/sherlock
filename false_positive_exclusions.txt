@@ -1,15 +1,15 @@
 APClips
 Archive.org
-CGTrader
 Code Snippet Wiki
-GNOME VCS
+DeviantArt
 GeeksforGeeks
 Giphy
 Hubski
 LessWrong
+LiveJournal
+LushStories
 Minecraft
 PocketStars
-Rajce.net
 Realmeye
 Reddit
 RocketTube
@@ -18,10 +18,10 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
