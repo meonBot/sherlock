@@ -1,8 +1,7 @@
 APClips
 Archive.org
-CGTrader
-Code Snippet Wiki
-Coders Rank
+Chess
+DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -16,14 +15,15 @@ Realmeye
 Reddit
 RocketTube
 Scribd
+Shelf
 SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Weblate
 YandexMusic
 mercadolivre
 phpRU
 svidbook
-xHamster
