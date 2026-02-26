@@ -1,12 +1,12 @@
 APClips
 Archive.org
-Chess
 DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+Itch.io
 LessWrong
 LushStories
 Patched
@@ -25,5 +25,6 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
