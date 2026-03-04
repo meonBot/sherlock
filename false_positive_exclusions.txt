@@ -1,9 +1,12 @@
 APClips
 Archive.org
 Codolio
+CyberDefenders
+DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
+HackerRank
 Hashnode
 Hubski
 LessWrong
@@ -12,7 +15,6 @@ Patched
 PocketStars
 Realmeye
 Reddit
-ReverbNation
 RocketTube
 Scribd
 Shelf
@@ -20,6 +22,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Weblate
 YandexMusic
