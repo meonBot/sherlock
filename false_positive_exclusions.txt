@@ -8,6 +8,7 @@ Hashnode
 Hubski
 LessWrong
 LushStories
+Mamot
 Patched
 PocketStars
 Rarible
