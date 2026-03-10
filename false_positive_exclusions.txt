@@ -1,6 +1,8 @@
 APClips
 Archive.org
+Audiojungle
 Codolio
+Cults3D
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -8,7 +10,6 @@ Hashnode
 Hubski
 LessWrong
 LushStories
-Mamot
 Patched
 PocketStars
 Rarible
@@ -19,6 +20,8 @@ Scribd
 Shelf
 SlideShare
 Smule
+Snapchat
+SoylentNews
 Splice
 Spotify
 Strava
