@@ -1,16 +1,18 @@
 APClips
 Archive.org
+Carbonmade
 Codolio
 DeviantArt
-GNOME VCS
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
 LushStories
+Minecraft
 Patched
 PocketStars
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -29,3 +31,5 @@ mercadolivre
 opennet
 phpRU
 svidbook
+threads
+xHamster
