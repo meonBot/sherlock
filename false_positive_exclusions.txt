@@ -1,6 +1,5 @@
 APClips
 Archive.org
-Audiojungle
 Codolio
 DeviantArt
 GeeksforGeeks
@@ -9,10 +8,8 @@ Hashnode
 Hubski
 LessWrong
 LushStories
-Minecraft
 Patched
 PocketStars
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -28,6 +25,6 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
-threads
