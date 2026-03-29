@@ -1,12 +1,13 @@
 APClips
 Archive.org
 Codolio
-DeviantArt
+DigitalSpy
 GeeksforGeeks
 Giphy
-GitHub
 Hashnode
 Hubski
+LemmyWorld
+LessWrong
 LushStories
 Patched
 PocketStars
@@ -20,7 +21,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Weblate
 YandexMusic
@@ -28,4 +28,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-threads
