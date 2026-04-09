@@ -2,13 +2,12 @@
 APClips
 Archive.org
 Bandcamp
-CGTrader
 Codolio
-Crevado
 DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
+Gravatar
 Hashnode
 Hubski
 LessWrong
@@ -26,7 +25,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Strava
 Trovo
 TryHackMe
 Weblate
