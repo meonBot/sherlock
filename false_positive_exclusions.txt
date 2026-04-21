@@ -3,7 +3,6 @@ APClips
 Apple Discussions
 Archive.org
 Bandcamp
-Carbonmade
 Codolio
 DeviantArt
 Discord.bio
@@ -13,9 +12,7 @@ Hashnode
 Hubski
 LessWrong
 LushStories
-Minecraft
 Patched
-PocketStars
 Pornhub
 Rarible
 Realmeye
@@ -31,7 +28,6 @@ Trovo
 TryHackMe
 Velomania
 Weblate
-Wordnik
 YandexMusic
 dailykos
 interpals
@@ -39,4 +35,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
