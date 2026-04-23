@@ -8,9 +8,9 @@ DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
+HackerRank
 Hashnode
 Hubski
-LessWrong
 LushStories
 Patched
 Pornhub
@@ -34,3 +34,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
