@@ -3,8 +3,8 @@ APClips
 Airliners
 Apple Discussions
 Archive.org
+Audiojungle
 Bandcamp
-CGTrader
 Codolio
 Discord.bio
 GeeksforGeeks
@@ -14,6 +14,7 @@ Hubski
 LessWrong
 LushStories
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -25,12 +26,13 @@ Smule
 Splice
 Spotify
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 dailykos
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
+xHamster
