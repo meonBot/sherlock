@@ -4,7 +4,6 @@ Apple Discussions
 Archive.org
 Bandcamp
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -33,6 +32,7 @@ dailykos
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
