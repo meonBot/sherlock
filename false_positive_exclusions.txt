@@ -2,16 +2,18 @@
 APClips
 Airliners
 Apple Discussions
-Archive.org
 Bandcamp
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
+Eintracht Frankfurt Forum
 Envato Forum
 Giphy
 Hashnode
 Hubski
 LessWrong
+Minecraft
 Motherless
 Patched
 Pornhub
@@ -37,3 +39,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
