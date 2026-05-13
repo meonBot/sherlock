@@ -2,16 +2,17 @@
 APClips
 Airliners
 Apple Discussions
+Archive.org
 Bandcamp
 Codolio
-Cults3D
+Crevado
 DeviantArt
 Discord.bio
-Eintracht Frankfurt Forum
 Envato Forum
 Giphy
 Hashnode
 Hubski
+Itch.io
 LessWrong
 Minecraft
 Motherless
@@ -21,6 +22,7 @@ Rarible
 Realmeye
 Reddit
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
