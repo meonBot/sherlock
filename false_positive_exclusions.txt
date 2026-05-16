@@ -11,9 +11,7 @@ Envato Forum
 Giphy
 Hashnode
 Hubski
-Itch.io
-LiveJournal
-Motherless
+LessWrong
 Patched
 Pornhub
 Rarible
@@ -30,7 +28,9 @@ Trovo
 TryHackMe
 Velomania
 Weblate
+Wordnik
 YandexMusic
+authorSTREAM
 dailykos
 igromania
 interpals
@@ -38,4 +38,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
