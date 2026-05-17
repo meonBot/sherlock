@@ -2,6 +2,7 @@
 APClips
 Airliners
 Apple Discussions
+Archive of Our Own
 Archive.org
 Bandcamp
 Codolio
@@ -11,13 +12,15 @@ Envato Forum
 Giphy
 Hashnode
 Hubski
-LessWrong
+Itch.io
+Minecraft
 Patched
 Pornhub
 Rarible
 Realmeye
 Reddit
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
@@ -28,7 +31,6 @@ Trovo
 TryHackMe
 Velomania
 Weblate
-Wordnik
 YandexMusic
 authorSTREAM
 dailykos
@@ -38,3 +40,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
