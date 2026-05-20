@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Discussions
 Archive.org
@@ -9,10 +8,11 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+Gravatar
 Hashnode
 Hubski
+LessWrong
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -35,4 +35,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
