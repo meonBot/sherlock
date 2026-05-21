@@ -8,7 +8,6 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-Gravatar
 Hashnode
 Hubski
 LessWrong
@@ -23,6 +22,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Tenor
 TryHackMe
 Velomania
 Weblate
