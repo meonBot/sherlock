@@ -1,19 +1,17 @@
 7Cups
 APClips
 Airliners
+Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
 Codolio
-DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Itch.io
-LessWrong
 Minecraft
 Patched
 Pornhub
@@ -27,7 +25,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
