@@ -6,7 +6,7 @@ Apple Discussions
 Archive.org
 Bandcamp
 Codolio
-Cults3D
+DEV Community
 DeviantArt
 Discord.bio
 Envato Forum
@@ -14,27 +14,24 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Minecraft
+LessWrong
 Patched
 Pornhub
 Rarible
 Realmeye
 Reddit
 Replit.com
-ReverbNation
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Splice
 Spotify
-Star Citizen
 Trovo
 TryHackMe
 Velomania
-Venmo
 Weblate
-Weebly
 YandexMusic
 authorSTREAM
 dailykos
