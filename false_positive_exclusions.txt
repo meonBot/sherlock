@@ -5,16 +5,14 @@ Apple Discussions
 Archive.org
 Bandcamp
 Codolio
-Cults3D
 Discord.bio
+Dribbble
 Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
-Minecraft
-OurDJTalk
 Patched
 Rarible
 Realmeye
@@ -25,7 +23,6 @@ RuneScape
 Scribd
 Shelf
 SlideShare
-Snapchat
 Splice
 Spotify
 TryHackMe
