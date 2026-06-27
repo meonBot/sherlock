@@ -13,9 +13,9 @@ Giphy
 Hashnode
 Houzz
 Hubski
-Itch.io
 LessWrong
 Odysee
+Patched
 Rarible
 Realmeye
 Reddit
