@@ -3,11 +3,11 @@ APClips
 Airliners
 Apple Developer
 Apple Discussions
+Archive of Our Own
 Archive.org
 Bandcamp
 BreachSta.rs Forum
 Codolio
-DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -15,9 +15,10 @@ Giphy
 Hashnode
 Houzz
 Hubski
+Itch.io
 LessWrong
+Minecraft
 Odysee
-OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -26,13 +27,12 @@ Realmeye
 Reddit
 Replit.com
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
-Star Citizen
-Trovo
 TryHackMe
 Velomania
 Weblate
@@ -45,4 +45,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
