@@ -17,7 +17,6 @@ Houzz
 Hubski
 LessWrong
 Odysee
-OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -44,3 +43,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
