@@ -5,11 +5,13 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+BoardGameGeek
 BreachSta.rs Forum
 Codolio
 DeviantArt
 Discord.bio
 Envato Forum
+Flipboard
 GeeksforGeeks
 Giphy
 Hashnode
@@ -43,4 +45,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
