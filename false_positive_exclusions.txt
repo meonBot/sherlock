@@ -5,22 +5,20 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-BoardGameGeek
 BreachSta.rs Forum
 Codolio
 DeviantArt
 Discord.bio
 Envato Forum
-Flipboard
 GeeksforGeeks
 Giphy
 Hashnode
 Houzz
 Hubski
 LessWrong
+Minecraft
 Odysee
 PCGamer
-Patched
 Pornhub
 Rarible
 Realmeye
@@ -45,3 +43,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
