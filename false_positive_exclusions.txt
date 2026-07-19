@@ -1,9 +1,7 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
-Archive.org
 Bandcamp
 BreachSta.rs Forum
 Codolio
@@ -15,6 +13,7 @@ Giphy
 Hashnode
 Hubski
 LessWrong
+Minecraft
 Odysee
 PCGamer
 Patched
@@ -39,7 +38,7 @@ dailykos
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
-xHamster
