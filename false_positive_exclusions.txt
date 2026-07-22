@@ -16,7 +16,6 @@ Hubski
 LessWrong
 Minecraft
 Odysee
-OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -30,11 +29,11 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
 Weblate
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
