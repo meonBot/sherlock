@@ -13,8 +13,9 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+Itch.io
 LessWrong
-Minecraft
+LiveJournal
 Odysee
 PCGamer
 Patched
@@ -32,7 +33,6 @@ Spotify
 Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -43,3 +43,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
