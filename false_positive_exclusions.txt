@@ -15,7 +15,6 @@ Hashnode
 Hubski
 Itch.io
 LessWrong
-LiveJournal
 Odysee
 PCGamer
 Patched
@@ -33,6 +32,7 @@ Spotify
 Trakt
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
