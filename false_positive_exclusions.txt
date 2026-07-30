@@ -7,7 +7,6 @@ Archive.org
 Bandcamp
 Chatujme.cz
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -18,9 +17,7 @@ Hashnode
 Hubski
 Instapaper
 LessWrong
-Minecraft
 Odysee
-OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -34,10 +31,10 @@ Shelf
 SlideShare
 Splice
 Spotify
-Star Citizen
 Trakt
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -48,4 +45,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
