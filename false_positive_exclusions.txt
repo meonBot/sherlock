@@ -5,11 +5,11 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
 Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
+Eintracht Frankfurt Forum
 Envato Forum
 F3.cool
 GeeksforGeeks
@@ -19,7 +19,6 @@ Houzz
 Hubski
 Instapaper
 Odysee
-OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -37,15 +36,14 @@ Spotify
 Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
 dailykos
+dcinside
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
