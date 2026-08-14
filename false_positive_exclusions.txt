@@ -5,6 +5,7 @@ Apple Discussions
 Archive.org
 Bandcamp
 Blogger
+CGTrader
 Chatujme.cz
 Codolio
 DeviantArt
@@ -13,13 +14,16 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
+HackenProof (Hackers)
 Hashnode
 Houzz
 Hubski
 Instapaper
+Linktree
 Odysee
 PCGamer
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -31,9 +35,9 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
-Typeracer
 Velomania
 Weblate
 YandexMusic
@@ -43,7 +47,6 @@ hunting
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
