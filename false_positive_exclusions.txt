@@ -4,10 +4,12 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+CGTrader
 Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
+Eintracht Frankfurt Forum
 Envato Forum
 F3.cool
 GeeksforGeeks
@@ -18,9 +20,9 @@ Houzz
 Hubski
 Instapaper
 Odysee
+Outgress
 PCGamer
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -32,10 +34,8 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
