@@ -22,7 +22,7 @@ Houzz
 Hubski
 Instapaper
 Linktree
-Minecraft
+LushStories
 ObservableHQ
 Odysee
 PCGamer
@@ -37,7 +37,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
@@ -53,4 +52,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
