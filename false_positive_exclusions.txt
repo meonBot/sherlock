@@ -1,28 +1,30 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blipfoto
 CGTrader
 Championat
 Chatujme.cz
-Chess
+ChaturBate
 Codolio
 DeviantArt
 Discord.bio
+Eintracht Frankfurt Forum
 Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
 HackerNews
-HackerRank
 Hashnode
 Houzz
 Hubski
 Instapaper
 Linktree
+NationStates Nation
+NationStates Region
 ObservableHQ
 Odysee
 PCGamer
@@ -44,7 +46,6 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
-furaffinity
 hunting
 interpals
 mercadolivre
@@ -52,3 +53,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
