@@ -12,7 +12,6 @@ ChaturBate
 Codolio
 DeviantArt
 Discord.bio
-Eintracht Frankfurt Forum
 Envato Forum
 GaiaOnline
 GeeksforGeeks
@@ -23,8 +22,7 @@ Houzz
 Hubski
 Instapaper
 Linktree
-NationStates Nation
-NationStates Region
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -53,4 +51,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
