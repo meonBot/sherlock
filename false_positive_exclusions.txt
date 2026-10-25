@@ -1,14 +1,11 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Carbonmade
 Championat
 Chatujme.cz
-ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -36,6 +33,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+TikTok
 Trakt
 TryHackMe
 Velomania
